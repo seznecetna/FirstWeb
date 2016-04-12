@@ -1,0 +1,9 @@
+body
+{
+background-image: -webkit-radial-gradient(50% 50%, ellipse closest-side, #53B8EB, #B8FB97 50%);
+background-image:    -moz-radial-gradient(50% 50%, ellipse closest-side, #53B8EB, #B8FB97 50%);
+background-image:     -ms-radial-gradient(50% 50%, ellipse closest-side, #53B8EB, #B8FB97 50%);
+background-image:      -o-radial-gradient(50% 50%, ellipse closest-side, #53B8EB, #B8FB97 50%);
+background-image:         radial-gradient(50% 50%, ellipse closest-side, #53B8EB, #B8FB97 50%);
+
+}
